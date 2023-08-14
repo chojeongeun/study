@@ -15,7 +15,7 @@ a {
 }
 
 #tab {
-  width: 600px;
+  width: 800px;
   border: 1px solid #888;
   margin: 100px auto;
 }
@@ -28,7 +28,7 @@ a {
   clear: both;
 }
 #tab ul li {
-  width: 33.3333333333%;
+  width: 20%;
   height: 40px;
   font: bold 14px/40px "arial";
   color: #999;
